@@ -1,0 +1,17 @@
+.container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.logoWrapper {
+    position: relative;
+    width: 50%;
+    height: 50%;
+}
